@@ -1,0 +1,35 @@
+{
+    "category": "Input",
+    "inputs": 1, 
+    "name": "ConstTrigger", 
+    "parameters": [
+        {
+            "default": "1", 
+            "type": "raw", 
+            "name": "Value", 
+            "value": "1", 
+            "options": []
+        },
+        {
+            "default": "OUTPUT_TYPE_INT", 
+            "type": "raw", 
+            "name": "Data Type", 
+            "value": "OUTPUT_TYPE_INT", 
+            "options": [
+				"OUTPUT_TYPE_INT",
+				"OUTPUT_TYPE_FLOAT"
+			]
+        },
+    ], 
+    "outputs": 1, 
+    "labels": {
+        "input": [], 
+        "output": []
+    }, 
+    "schematic_pins": {
+        "inputs": [1], 
+        "outputs": [2]
+    }, 
+    "repository": "https://github.com/nblocksStudioNodes/nblocks_gpi", 
+    "revision": ""
+}
