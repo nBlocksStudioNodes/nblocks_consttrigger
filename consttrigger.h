@@ -1,5 +1,5 @@
-#ifndef __NB_GPI
-#define __NB_GPI
+#ifndef __NB_CONSTTRIGGER
+#define __NB_CONSTTRIGGER
 
 #include "nworkbench.h"
 
